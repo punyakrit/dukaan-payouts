@@ -12,6 +12,7 @@ function Transaction() {
       <div>
         <TransactionDetails />
       </div>
+      
     </div>
   );
 }

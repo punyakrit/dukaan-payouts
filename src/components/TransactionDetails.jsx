@@ -1,5 +1,6 @@
 import React from "react";
 import OrderDetails from "./OrderDetails";
+import PageChange from "./PageChange";
 
 function TransactionDetails() {
   return (
@@ -68,7 +69,9 @@ function TransactionDetails() {
         </div>
         <OrderDetails />
 
-        
+        <div>
+          <PageChange/>
+        </div>
       </div>
     </div>
   );
