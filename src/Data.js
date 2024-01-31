@@ -35,29 +35,6 @@ export const data = [
       amount: "₹876.45",
       rs: "₹17"
     },
-    {
-      id: "#445566",
-      date: "7 July, 2023",
-      amount: "₹1,234.56",
-      rs: "₹22"
-    },
-    {
-      id: "#778899",
-      date: "14 August, 2023",
-      amount: "₹543.21",
-      rs: "₹10"
-    },
-    {
-      id: "#990011",
-      date: "30 September, 2023",
-      amount: "₹987.65",
-      rs: "₹18"
-    },
-    {
-      id: "#112233",
-      date: "5 November, 2023",
-      amount: "₹1,234.56",
-      rs: "₹22"
-    }
+    
   ];
   

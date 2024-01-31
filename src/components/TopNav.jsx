@@ -2,7 +2,7 @@ import React from "react";
 
 function TopNav() {
   return (
-    <div className="px-8 py-3 flex justify-between rounded-md shadow-md items-center  w-screen bg-white fixed">
+    <div className="px-8 py-3 flex justify-between rounded-md shadow-md items-center w-full  bg-white ">
       <div className="flex items-center">
         <h1 className="text-xl">Payments</h1>
         <h1 className="flex items-center ml-4 font-light text-sm">

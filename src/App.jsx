@@ -10,7 +10,7 @@ function App() {
         <SideSections/>
       </div>
       <div className="col-span-10">
-        <TopNav />
+        
 
         <Home />
       </div>
