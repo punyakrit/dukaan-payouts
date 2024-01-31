@@ -56,8 +56,8 @@ function TopNav() {
         <button className="p-3 rounded-full shadow-sm bg-gray-200">
           <svg
             xmlns="http://www.w3.org/2000/svg"
-            width="25"
-            height="25"
+            width="15"
+            height="15"
             viewBox="0 0 20 20"
             fill="none"
           >
@@ -70,8 +70,8 @@ function TopNav() {
         <button className="p-1 rounded-full shadow-sm bg-gray-200 ml-3">
           <svg
             xmlns="http://www.w3.org/2000/svg"
-            width="40"
-            height="40"
+            width="30"
+            height="30"
             viewBox="0 0 40 40"
             fill="none"
           >
